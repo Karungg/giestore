@@ -1,11 +1,15 @@
-<section id="hero">
-    <div class="hero min-h-80">
-        <div class="hero-content text-center">
-            <div class="max-w-md">
-                <h1 class="text-4xl text-secondary font-bold">Selamat Datang di Giestore</h1>
-                <p class="py-6">destinasi utama bagi para pencinta coklat dan pecinta cemilan. Kami menyajikan
-                    rangkaian produk pilihan yang memikat hati dan memanjakan lidah.</p>
-            </div>
-        </div>
+<section class="w-full mx-auto bg-nordic-gray-light flex pt-12 md:pt-0 md:items-center bg-cover bg-right"
+    style="max-width:1600px; height: 32rem; background-image: url('{{ asset('assets/img/hero.png') }}');">
+
+    <div class="container mx-auto">
+
+        {{-- <div class="flex flex-col w-full lg:w-1/2 justify-center items-start  px-6 tracking-wide">
+            <h1 class="text-black text-2xl my-4">Stripy Zig Zag Jigsaw Pillow and Duvet Set</h1>
+            <a class="text-xl inline-block no-underline border-b border-gray-600 leading-relaxed hover:text-black hover:border-black"
+                href="#">products</a>
+
+        </div> --}}
+
     </div>
+
 </section>
