@@ -1,16 +1,12 @@
-<header class="border-b border-palette-lighter sticky top-0 z-50 bg-base-100">
-    <div class="flex items-center justify-between mx-auto max-w-6xl px-6 pb-2 pt-4 md:pt-6"><a class=" cursor-pointer"
-            href="/">
-            <h1 class="flex no-underline"><img height="32" width="32" alt="logo"
-                    class="h-8 w-14 mr-1 object-contain" src="{{ asset('assets/img/logo.png') }}" /><span
-                    class="text-2xl font-primary text-secondary font-bold tracking-tight pt-1">Giestore</span>
-            </h1>
+<nav class="bg-white border-gray-200">
+    <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
+        <a href="" class="flex items-center space-x-3 rtl:space-x-reverse">
+            <img src="{{ asset('assets/img/logo.png') }}" class="h-8" alt="Giestore logo" />
+            <span class="self-center text-secondary text-2xl font-semibold whitespace-nowrap">Giestore</span>
         </a>
-        <div class="flex-none">
-            <ul class="menu menu-horizontal px-1">
-                <li><a>Home</a></li>
-                <li><a>About</a></li>
-            </ul>
+        <div class="flex items-center space-x-6 rtl:space-x-reverse">
+            <a href="https://wa.me/c/6281542638253" target="_blank" class="text-sm  text-gray-500 hover:underline">(+62)
+                815-4263-8253</a>
         </div>
     </div>
-</header>
+</nav>

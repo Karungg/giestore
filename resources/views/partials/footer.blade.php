@@ -5,8 +5,7 @@
                 <div class="px-3 md:px-0">
                     <h3 class="font-bold text-gray-900">About</h3>
                     <p class="py-4">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel mi ut felis tempus
-                        commodo nec id erat. Suspendisse consectetur dapibus velit ut lacinia.
+                        Jl. Jamrud No.57, RT.05/RW.02, Tanah Sareal, Tanah Sereal, Bogor City, West Java 16161.
                     </p>
                 </div>
             </div>
