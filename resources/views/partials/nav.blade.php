@@ -1,4 +1,4 @@
-<nav class="bg-white border-gray-200">
+<nav class="fixed w-full z-50 top-0 start-0 bg-base-100 border-gray-200">
     <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
         <a href="" class="flex items-center space-x-3 rtl:space-x-reverse">
             <img src="{{ asset('assets/img/logo.png') }}" class="h-8" alt="Giestore logo" />
